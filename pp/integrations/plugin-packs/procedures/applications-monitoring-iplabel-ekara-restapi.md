@@ -78,7 +78,7 @@ Here is the list of services for this connector, detailing all metrics and statu
 
 ## Prerequisites
 
-* A valid user account (username/password) with read-only rights is required to authenticate against the Ekara Rest API.
+* A valid API-KEY or user account (username/password) with read-only rights is required to authenticate against the Ekara Rest API.
 * The Ekara API must be reachable on port TCP/443 from the Centreon poller.
 
 ## Installing the monitoring connector
